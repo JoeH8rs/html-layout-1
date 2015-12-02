@@ -1,0 +1,39 @@
+body {
+	background-color: red;
+}
+
+.head {
+	height: calc(100vh / 9.5);
+	background-color: lightsteelblue;
+	display:flex;
+	align-items: center;
+}
+.box {
+	display: inline-block;
+	height: auto;
+	width: 150px;
+	margin-left:50px;
+	background-color: dodgerblue;
+}
+.white0 {
+	height: calc(100vh / 4.5);
+	background-color: white;
+	padding:50px;
+	font-size: 1.5em;
+}
+.blue1 {
+	height: calc(100vh / 7);
+	background-color: dodgerblue;
+}
+.teal2 {
+	height: calc(100vh / 7);
+	background-color: teal;
+}
+.tan3 {
+	height: calc(100vh / 7);
+	background-color: tan;
+}
+.yellow4 {
+	height: calc(100vh / 7);
+	background-color: yellow;
+}

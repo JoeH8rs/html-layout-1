@@ -1,0 +1,32 @@
+.left {
+	width: calc(100% / 3);
+	height: 100vh;
+	float: left;
+	background-color: deepskyblue;
+}
+.center {
+	width: calc(100% / 3);
+	height: 100vh;
+	float: left;
+	background-color: mediumspringgreen;
+}
+.right {
+	width: calc(100% / 3);
+	float: left;
+	background-color: lightgoldenrodyellow;
+    height: 100vh;
+    
+}
+.image-place-holder {
+	width: 100%;
+	height: 15vh;
+	background-color: red;
+	margin-top: calc(100vh - 15vh);
+    color: white;
+	text-align: center;
+	line-height: 15vh;
+	font-size: 1.5em;	
+}
+
+
+
