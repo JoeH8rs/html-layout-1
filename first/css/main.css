@@ -10,7 +10,7 @@ header {
 	height: 100px;
 }
 
-.container {
+main {
 	background-color: whitesmoke;
 	width: 70%;
 	height: calc(100vh - 200px);
