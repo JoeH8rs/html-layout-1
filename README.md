@@ -1,5 +1,11 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
+http://joeh8rs.github.io/html-layout-1/first/
+
+http://joeh8rs.github.io/html-layout-1/second/
+
+http://joeh8rs.github.io/html-layout-1/third/
+
 html-layout
 ===========
 
